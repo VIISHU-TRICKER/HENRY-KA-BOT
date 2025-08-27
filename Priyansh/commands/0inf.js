@@ -30,9 +30,9 @@ var callback = () => api.sendMessage({body:`✦𝗔𝗗𝗠𝗜𝗠 𝗔𝗡𝗗
 
 ✡BoT Prefix ◉‿◉: ${global.config.PREFIX}
 
-༻𝐎𝐖𝐍𝐄𝐑:- ☞꧁𓊈𒆜🅵🅰🆁🅼🅰🅽 🆂🅸🅳🅳🅸🆀🆄🅴𒆜𓊉꧂☜ contact my owner for any issue.😁
+༻𝐎𝐖𝐍𝐄𝐑:- ☞꧁𓊈𒆜HENRY XWD𒆜𓊉꧂☜ contact my owner for any issue.😁
 
-༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/100052419137366 
+༒𝐇𝐢𝐬 𝐅𝐚𝐜𝐞𝐛𝐨𝐨𝐤 𝐢𝐝༒:- ☞ https://www.facebook.com/Henry.inxide
  
 ➟UPTIME☆
 
